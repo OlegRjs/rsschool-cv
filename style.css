@@ -1,0 +1,34 @@
+body {
+    font: 16px 'Roboto';
+  }
+  
+  .conteiner {
+    width: 620px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .header {
+    padding: 20px 0;
+  }
+
+  h3 {
+    text-align: center;
+    color: #2c3e50;
+  }
+  
+  hr {
+    border: none;
+    color: #eee;
+    background-color: #eee;
+    height: 1px;
+  }
+  
+  p {
+    text-align: left;
+    color: #34495e;
+  }
+    
+  .contacts {
+    text-align: left;
+  }
