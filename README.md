@@ -1,1 +1,0 @@
-https://OlegRjs.github.io/rsschool-cv/
